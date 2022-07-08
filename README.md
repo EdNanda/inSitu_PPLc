@@ -26,7 +26,7 @@ For help, contact enandayapa@gmail.com
 The program is on a finished state, albeit some small bugs that might need fixing. 
 Please contact us if you find any new issues.
 
-[Spectra Compiler] (https://gitlab.hzdr.de/hyd/spectra-compiler.git) was created as an improved version of this program, although it does not allow for the simultaneous collection of pressure nor photoframes. The new program uses a parallel thread to make the program more functional during the measurement process.
+[Spectra Compiler](https://gitlab.hzdr.de/hyd/spectra-compiler.git) was created as an improved version of this program, although it does not allow for the simultaneous collection of pressure nor photoframes. The new program uses a parallel thread to make the program more functional during the measurement process.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
