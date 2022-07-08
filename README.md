@@ -4,7 +4,7 @@ Graphical interface that allows the simultaneous collection of data coming from 
 ## Description
 This program creates graphical interface using tkinter that allows the simultaenous collection of pressure data from a Thyracont sensor, PL spectra from an Ocean Optics spectrometer, and images from a usb camera.
 
-This program was used to collect the data shown in the Material Advances publication [DOI:10.1039/D1MA00494H] https://doi.org/10.1039/D1MA00494H 
+This program was used to collect the data shown in the Material Advances publication [DOI:10.1039/D1MA00494H]https://doi.org/10.1039/D1MA00494H 
 
 ## Installation
 Please install the libraries shown in the requirements.txt
