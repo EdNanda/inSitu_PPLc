@@ -7,7 +7,7 @@ This program creates graphical interface using tkinter that allows the simultaen
 This program was used to collect the data shown in the Material Advances publication [DOI:10.1039/D1MA00494H](https://doi.org/10.1039/D1MA00494H)
 
 ## Installation
-Please install the libraries shown in the requirements.txt
+For Ocean Optics spectrometer users, please install the required drivers before running this program. All other dependencies can be found in the requirements.txt file.
 
 ## Usage
 When starting the program, a windows will appear asking about the sensors that want the be used. After that, a live feed of the selected sensors will be shown. It is possible to run the program without sensors. 
